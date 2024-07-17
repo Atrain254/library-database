@@ -1,0 +1,7 @@
+﻿create table bookss(
+ID INT PRIMARY KEY IDENTITY(1,1),
+TITLE VARCHAR(100),
+AUTHOR VARCHAR(100),
+YearPublished INT,
+GENRE VARCHAR(50),
+);
